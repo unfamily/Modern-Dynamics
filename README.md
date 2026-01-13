@@ -1,1 +1,1 @@
-**Unsupported version and no releases available.**
+**Unsupported project and no releases available.**
